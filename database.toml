@@ -1,0 +1,4 @@
+db_name = "example_db"
+tables = ["users", "products", "orders"]
+def max_tables = 10
+@max_tables
