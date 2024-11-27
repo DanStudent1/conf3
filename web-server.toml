@@ -1,4 +1,4 @@
 server = "localhost"
 port = 8080
 routes = ["home", "about", "contact"]
-def max_connections = 100
+max_connections = 100
